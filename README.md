@@ -22,28 +22,8 @@ V1.1
 	3、新增通达OA后台module任意文件上传
 ```
 
-# 支持所有漏洞检测
-<img width="841" alt="图片" src="https://user-images.githubusercontent.com/105373673/236688579-6aff3fd8-7b7b-4c78-bd99-802709df841d.png">
+<img width="844" alt="图片" src="https://user-images.githubusercontent.com/105373673/237033813-4f2e46a8-ce5a-4639-8b95-1ae2f385a83a.png">
 
-
-# 通达OA任意用户登录漏洞检测
-<img width="841" alt="图片" src="https://user-images.githubusercontent.com/105373673/236688610-5de8199f-c0b3-4068-a88d-64e0d3553b1c.png">
-
-# 通达OA后台任意文件上传漏洞检测
-<img width="844" alt="图片" src="https://user-images.githubusercontent.com/105373673/236688647-d32d9d9d-f6d5-44b1-9177-a848e3a5631a.png">
-
-
-# 通达OA前台任意文件上传漏洞检测
-<img width="844" alt="图片" src="https://user-images.githubusercontent.com/105373673/236688679-40f31ab9-53ac-46ac-831a-1b5bc4661a4c.png">
-
-# 通达OA后台任意文件上传漏洞利用，可设置上传文件名，上传webshell采用蚁剑，密码为x
-<img width="844" alt="图片" src="https://user-images.githubusercontent.com/105373673/236688718-a0e27ff1-d9a6-4d80-aec3-ab8c5979fd60.png">
-
-# 通达OA前台任意文件上传漏洞利用，可设置上传文件名，上传webshell采用蚁剑，密码为x
-<img width="844" alt="图片" src="https://user-images.githubusercontent.com/105373673/236688769-c6ebe604-95c3-4e67-86d7-3a15960e0eed.png">
-
-# 蚁剑连接
-<img width="789" alt="图片" src="https://user-images.githubusercontent.com/105373673/236688798-cd2cf372-06e4-40ed-9bef-cbaa70591337.png">
 
 
 

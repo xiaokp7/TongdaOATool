@@ -16,9 +16,10 @@ TongdaOATools本工具支持以下漏洞的验证和利用：
 后续待更新其他漏洞，欢迎各位大佬提issues，提供其他漏洞细节。
 # 更新记录
 ```
-1、修改webshell为免杀常见杀软的webshell
-2、更换webshell工具冰蝎为蚁剑
-3、新增通达OA后台module任意文件上传
+V1.1
+	1、修改webshell为免杀常见杀软的webshell
+	2、更换webshell工具冰蝎为蚁剑
+	3、新增通达OA后台module任意文件上传
 ```
 
 # 支持所有漏洞检测

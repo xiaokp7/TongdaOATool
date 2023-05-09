@@ -14,6 +14,12 @@ TongdaOATools本工具支持以下漏洞的验证和利用：
 		影响版本：V11.2、V11.3
 		
 后续待更新其他漏洞，欢迎各位大佬提issues，提供其他漏洞细节。
+# 更新记录
+```
+1、修改webshell为免杀常见杀软的webshell
+2、更换webshell工具冰蝎为蚁剑
+3、新增通达OA后台module任意文件上传
+```
 
 # 支持所有漏洞检测
 <img width="841" alt="图片" src="https://user-images.githubusercontent.com/105373673/236688579-6aff3fd8-7b7b-4c78-bd99-802709df841d.png">

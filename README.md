@@ -1,5 +1,7 @@
 # 通达OA漏洞利用工具
 TongdaOATool本工具支持以下漏洞的验证和利用：
+webshell采用蚁剑连接，密码均为`x`
+注意：通达OA v11.6前台任意文件删除+任意文件上传漏洞会删除auth.inc.php，这可能会损坏OA系统谨慎操作
 ```
 	1、通达OA任意用户登录漏洞（TongdaOA_AnyUser_Login）
 		影响版本：2017-V11.4

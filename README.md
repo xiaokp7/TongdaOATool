@@ -64,7 +64,7 @@ V1.3
 
 <img width="692" alt="image" src="https://github.com/xiaokp7/TongdaOATool/assets/105373673/a107fa95-a230-4c78-bb5b-382b6a496237">
 
-<img width="695" alt="image" src="https://github.com/xiaokp7/TongdaOATool/assets/105373673/68835790-3df9-4906-a019-299f5544ba00">
+<img width="1621" alt="image" src="https://github.com/xiaokp7/TongdaOATool/assets/105373673/6fcd4905-491f-49bf-bee7-aa42ce38fe57">
 
 采用线程池解决检测漏洞时卡顿问题
 

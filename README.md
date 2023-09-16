@@ -53,7 +53,7 @@ V1.2
 	6.新增通达OA v11.8 前台任意文件上传漏洞
 V1.3
 	1. 代码开源
-	2. 增加http、socks代理功能，方便抓包分析代码或内网环境下使用
+	2. 增加http、socks代理功能，方便抓包分析或内网环境下使用
 	3. 采用线程池修复卡顿问题
 	4. 新增通达OA前台authmobi伪造在线用户登录漏洞（TongdaOA_Authmobi_Login）
 	5. 新增通达OA登录认证绕过漏洞(TongdaOA_Bypass_Auth)

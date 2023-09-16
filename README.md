@@ -52,10 +52,11 @@ V1.2
 	5.新增通达OA v11.6前台任意文件删除+任意文件上传漏洞
 	6.新增通达OA v11.8 前台任意文件上传漏洞
 V1.3
-	1. 采用线程池修复卡顿问题
-	2. 新增通达OA前台authmobi伪造在线用户登录漏洞（TongdaOA_Authmobi_Login）
-	3. 新增通达OA登录认证绕过漏洞(TongdaOA_Bypass_Auth)
-	4. 新增通达OA gataway前台任意文件上传漏洞
+	1. 代码开源
+	2. 采用线程池修复卡顿问题
+	3. 新增通达OA前台authmobi伪造在线用户登录漏洞（TongdaOA_Authmobi_Login）
+	4. 新增通达OA登录认证绕过漏洞(TongdaOA_Bypass_Auth)
+	5. 新增通达OA gataway前台任意文件上传漏洞
 ```
 采用线程池解决检测漏洞时卡顿问题
 

@@ -62,7 +62,7 @@ V1.3
 
 增加http、socks代理功能，方便抓包分析代码或内网环境下使用
 
-<img width="700" alt="image" src="https://github.com/xiaokp7/TongdaOATool/assets/105373673/2d3d8d1e-5e27-4b61-afe0-44ea73f76d7c">
+<img width="692" alt="image" src="https://github.com/xiaokp7/TongdaOATool/assets/105373673/a107fa95-a230-4c78-bb5b-382b6a496237">
 
 <img width="695" alt="image" src="https://github.com/xiaokp7/TongdaOATool/assets/105373673/68835790-3df9-4906-a019-299f5544ba00">
 

@@ -58,9 +58,13 @@ V1.3
 	4. 新增通达OA gataway前台任意文件上传漏洞
 ```
 采用线程池解决检测漏洞时卡顿问题
+
 <img width="695" alt="image" src="https://github.com/xiaokp7/TongdaOATools/assets/105373673/2b9307bb-1d78-470b-9120-41dff5a24d7f">
+
 <img width="695" alt="image" src="https://github.com/xiaokp7/TongdaOATools/assets/105373673/87e52f99-203e-436f-96ba-850eb7fe7f9f">
+
 <img width="695" alt="image" src="https://github.com/xiaokp7/TongdaOATools/assets/105373673/a3a4b809-ddd1-45af-94b2-ab17ab8cad10">
+
 <img width="788" alt="image" src="https://github.com/xiaokp7/TongdaOATools/assets/105373673/12b511c5-f6e4-4854-8cdc-28fea0a8b025">
 
 

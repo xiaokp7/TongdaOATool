@@ -61,6 +61,10 @@ V1.3
 ```
 采用线程池解决检测漏洞时卡顿问题
 
+<img width="700" alt="image" src="https://github.com/xiaokp7/TongdaOATool/assets/105373673/2d3d8d1e-5e27-4b61-afe0-44ea73f76d7c">
+
+<img width="695" alt="image" src="https://github.com/xiaokp7/TongdaOATool/assets/105373673/68835790-3df9-4906-a019-299f5544ba00">
+
 <img width="695" alt="image" src="https://github.com/xiaokp7/TongdaOATools/assets/105373673/2b9307bb-1d78-470b-9120-41dff5a24d7f">
 
 <img width="695" alt="image" src="https://github.com/xiaokp7/TongdaOATools/assets/105373673/87e52f99-203e-436f-96ba-850eb7fe7f9f">
